@@ -1,4 +1,4 @@
-FROM alpine:3.9
+FROM alpine:3.21.1
 
 VOLUME /opt/certs
 
