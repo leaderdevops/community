@@ -6,3 +6,5 @@ alpha-vantage==2.1.1
 pandas==0.25.1
 gunicorn==19.9.0
 python-dotenv==0.10.3
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
